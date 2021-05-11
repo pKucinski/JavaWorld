@@ -1,6 +1,6 @@
 # JavaWorld
 
-##Zadania
+## Zadania
 
 Zrealizować w języku Java świat wg opisu w podkatalogach: World01, World02, World03 oraz World04 znajdujących się pod adresem: https://github.com/tborzyszkowski/PythonWorld/tree/master/Laboratorium. Katalogi zawierają przykładową implementcję w Pythonie. Udoskonalić przedstawioną tam implementację, stosując koncepcje programowania obiektowego dostępne w Java oraz odpowiednie wzorce projektowe (najmniej dwa).
 
